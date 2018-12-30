@@ -11,7 +11,7 @@ Um das Spiel zu spielen braucht man einen oder mehrere Kniwwelino's (https://www
 
 Ziel des Spieles ist es einen versteckten Schatz auf dem Spielfeld zu finden. Am Spiel können mehrere Spieler mitspielen.
 
-Der erste Spieler welcher den Schatz gefunden hat bekommt einen Punkt.
+Der erste Spieler welcher den Schatz gefunden hat bekommt einen Punkt. Der Schatz ist irgendwo auf dem Spielfeld unter einer roten Led versteckt.
 
 ## Installation
 

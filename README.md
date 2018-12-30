@@ -17,7 +17,7 @@ Der erste Spieler welcher den Schatz gefunden hat bekommt einen Punkt. Der Schat
 
 ## Installation
 
-Laden Sie die Datei Kniwwelino_Schatzsuche_V1.0.xml in den Editor http://code.kniwwelino.lu/. Es empfiehlt sich zur Abgrenzung gegenüber anderen Spielern diese Nachrichten ID auf einen beliebigen Wert anpassen. Übertragen Sie die das Programm auf jeden Kniwwelino welcher mitspielen will. 
+Laden Sie die Datei [Kniwwelino_Schatzsuche_V1.0.xml](Kniwwelino_Schatzsuche_V1.0.xml) in den Editor http://code.kniwwelino.lu/. Es empfiehlt sich zur Abgrenzung gegenüber anderen Spielern diese Nachrichten ID auf einen beliebigen Wert anpassen. Übertragen Sie die das Programm auf jeden Kniwwelino welcher mitspielen will. 
 
 ![Nachrichten ID](Kniwwelino_Nachrichten_ID.JPG)
 

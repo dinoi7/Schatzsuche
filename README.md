@@ -2,6 +2,8 @@
 #Kniwwelino
 #KniwwelinoChallenge2018
 
+![Schatzsuche Logo](Schatzsuche.JPG)
+
 # Kniwwelino Schatzsuche
 
 Das Spiel Schatzsuche mit dem Kniwwelino haben wir im Zuge vom Wettbewerb 2018 (#KniwwelinoChallenge2018) entwickelt.

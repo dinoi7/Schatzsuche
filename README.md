@@ -64,23 +64,23 @@ Load the file [Kniwwelino_Schatzsuche_V1.0.xml](Kniwwelino_Schatzsuche_V1.0.xml)
 
 The first player who start up his kniwwelino has to wait some seconds for other players. This first player will see a W for "wait for others". When an other player will join him he has to wait until the game starts. In this waiting time the other player will see a P for "Pause". Some Seconds later the game will start automatically. The treasure will be placed automatically somewhere on the playing field. All players can see now his own position showed by the red led in the middle of the playing field. You can now move your position with the key's A and B.
 
-![Schatzsuche Steuerung](Schatzsuche_Steuerung.JPG)
+![Schatzsuche Moving](Schatzsuche_Steuerung.JPG)
 
-Das Ziel ist es den Schatz zu finden. Sobald ein Spieler den Schatz gefunden hat sieht er das Schatzsymbol und die RGB Led leuchtet grün. 
+The goal is to find the treasure first. As soon as one player has found the treasure he will see the treasure symbol and the RGB led lights up green.
 
-![Schatzsuche_Schatz](Schatzsuche_Schatz.JPG)
+![Schatzsuche_Treasure](Schatzsuche_Schatz.JPG)
 
-Dieser Spieler erhält einen Punkt. Die Anzahl der Punkte erhält jeder Spieler nach dem Spiel angezeigt.
+This player will get one point. The number of points every player will seen after each game.
 
-![Schatzsuche_Punkt](Schatzsuche_Punkt.JPG)
+![Schatzsuche_Point](Schatzsuche_Punkt.JPG)
 
-Alle anderen Spieler sehen einen traurigen Smiley und die RGB Led leuchtet Rot. 
+All other player will see a sad smiley and the RGB Led will light up red.
 
-![Schatzsuche_Nichts](Schatzsuche_Nichtgefunden.JPG)
+![Schatzsuche_Nothing](Schatzsuche_Nichtgefunden.JPG)
 
-Danach geht das ganze wieder von vorne los. Wenn in der Zeit in welcher das Spiel bereits läuft ein Spieler dazukommt, dann muss er warten bis das laufende Spiel beendet wurde. In dieser Zeit sieht er einen P für Pause.
+After one treaser chest the game starts up again. If one new player tries to join the game while it's running. He has to wait until the running game ended up. In this time he will see a P for "Pause".
 
-![Ablauf](Kniwwelino_Schatzsuche_Ablauf.JPG)
+![Procedure](Kniwwelino_Schatzsuche_Ablauf.JPG)
 
 
 

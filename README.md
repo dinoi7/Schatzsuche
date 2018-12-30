@@ -26,9 +26,13 @@ Der erste Spieler welcher seinen Kniwwelino gestartet hat wartet einige Sekunden
 
 ![Schatzsuche Steuerung](Schatzsuche_Steuerung.JPG)
 
-Das Ziel ist es den Schatz zu finden. Sobald ein Spieler den Schatz gefunden hat sieht er das Schatzsymbol und die RGB Led leuchtet grün. Dieser Spieler erhält einen Punkt. 
+Das Ziel ist es den Schatz zu finden. Sobald ein Spieler den Schatz gefunden hat sieht er das Schatzsymbol und die RGB Led leuchtet grün. 
 
 ![Schatzsuche_Schatz](Schatzsuche_Schatz.JPG)
+
+Dieser Spieler erhält einen Punkt. Die Anzahl der Punkte erhält jeder Spieler nach dem Spiel angezeigt.
+
+![Schatzsuche_Punkt](Schatzsuche_Punkt.JPG)
 
 Alle anderen Spieler sehen einen traurigen Smiley und die RGB Led leuchtet Rot. 
 

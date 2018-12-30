@@ -11,7 +11,7 @@ _English Version bellow!_
 Das Spiel Schatzsuche mit dem Kniwwelino haben wir im Zuge vom Wettbewerb 2018 (#KniwwelinoChallenge2018) entwickelt.
 Um das Spiel zu spielen braucht man einen oder mehrere Kniwwelino's (https://www.kniwwelino.lu/).
 
-Ziel des Spieles ist es einen versteckten Schatz auf dem Spielfeld zu finden. Am Spiel können mehrere Spieler mitspielen.
+Ziel des Spieles ist es einen versteckten Schatz auf dem Spielfeld als erter zu finden. Am Spiel können mehrere Spieler mitspielen.
 
 Der erste Spieler welcher den Schatz gefunden hat bekommt einen Punkt. Der Schatz ist irgendwo auf dem Spielfeld unter einer roten Led versteckt.
 
@@ -50,13 +50,13 @@ Danach geht das ganze wieder von vorne los. Wenn in der Zeit in welcher das Spie
 We developed the treasure quest game for the Kniwwelino Challenge 2018 (#KniwwelinoChallenge2018).
 To play this game you need one or more Kniwwelino's (https://www.kniwwelino.lu/).
 
-The goal of the game is to find the treasure on the playing field. The game can be played by one or multiple Players.
+The goal of the game is to find as first the treasure on the playing field. The game can be played by one or multiple Players.
 
 The first player who found the treasure will get one pint. The treasure is somewhere hidden on the playing field.
 
 ## Installation
 
-Load the file [Kniwwelino_Schatzsuche_V1.0.xml](Kniwwelino_Schatzsuche_V1.0.xml) to the editor http://code.kniwwelino.lu/. It's better to change the messsage ID in order to seperate you from other players. You can maintain a value you like. Dowload the program to every Kniwwelino who wants to participiate. 
+Load the file [Kniwwelino_Schatzsuche_V1.0.xml](Kniwwelino_Schatzsuche_V1.0.xml) to the editor http://code.kniwwelino.lu/. It's better to change the message ID in order to separate you from other players. You can maintain a value you like. Download the program to every Kniwwelino who wants to participate. 
 
 ![Message ID](Kniwwelino_Nachrichten_ID.JPG)
 
@@ -78,7 +78,7 @@ All other player will see a sad smiley and the RGB Led will light up red.
 
 ![Schatzsuche_Nothing](Schatzsuche_Nichtgefunden.JPG)
 
-After one treaser chest the game starts up again. If one new player tries to join the game while it's running. He has to wait until the running game ended up. In this time he will see a P for "Pause".
+After one treasure chest the game starts up again. If one new player tries to join the game while it's running. He has to wait until the running game ended up. In this time he will see a P for "Pause".
 
 ![Procedure](Kniwwelino_Schatzsuche_Ablauf.JPG)
 

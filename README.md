@@ -34,7 +34,7 @@ Alle anderen Spieler sehen einen traurigen Smiley und die RGB Led leuchtet Rot.
 
 ![Schatzsuche_Nichts](Schatzsuche_Nichtgefunden.JPG)
 
-Danach geht das ganze wieder von vorne los. Wenn in der Zeit in welcher das Spiel bereits läuft dazukommt, dann muss er warten bis das laufende Spiel beendet wurde. In dieser Zeit sieht er einen P für Pause.
+Danach geht das ganze wieder von vorne los. Wenn in der Zeit in welcher das Spiel bereits läuft ein Spieler dazukommt, dann muss er warten bis das laufende Spiel beendet wurde. In dieser Zeit sieht er einen P für Pause.
 
 ![Ablauf](Kniwwelino_Schatzsuche_Ablauf.JPG)
 

@@ -9,6 +9,7 @@ _English Version bellow!_
 # Kniwwelino Schatzsuche (Deutsche Version)
 
 Das Spiel Schatzsuche mit dem Kniwwelino haben wir im Zuge vom Wettbewerb 2018 (#KniwwelinoChallenge2018) entwickelt.
+Die Spielidee wie auch der Spielablauf kommt von Meinem Sohn.
 Um das Spiel zu spielen braucht man einen oder mehrere Kniwwelino's (https://www.kniwwelino.lu/).
 
 Ziel des Spieles ist es einen versteckten Schatz auf dem Spielfeld als erter zu finden. Am Spiel können mehrere Spieler mitspielen.
@@ -48,6 +49,7 @@ Danach geht das ganze wieder von vorne los. Wenn in der Zeit in welcher das Spie
 # Kniwwelino treasure quest ( English version )
 
 We developed the treasure quest game for the Kniwwelino Challenge 2018 (#KniwwelinoChallenge2018).
+The idea of the game and his procedure comes from my son.
 To play this game you need one or more Kniwwelino's (https://www.kniwwelino.lu/).
 
 The goal of the game is to find as first the treasure on the playing field. The game can be played by one or multiple Players.
